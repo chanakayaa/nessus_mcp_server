@@ -5,8 +5,8 @@
       "args": ["C:\\path\\to\\nessus_mcp_server.py"],
       "env": {
         "NESSUS_URL": "https://localhost:8834",
-        "NESSUS_USERNAME": "zoro",
-        "NESSUS_PASSWORD": "zoro"
+        "NESSUS_USERNAME": "XXXX",
+        "NESSUS_PASSWORD": "XXXX"
       }
     }
   }
