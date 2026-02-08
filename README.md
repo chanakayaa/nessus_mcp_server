@@ -47,8 +47,8 @@ pip install -r requirements.txt
 
 # Set environment variables (or use defaults)
 export NESSUS_URL="https://localhost:8834"
-export NESSUS_USERNAME="zoro"
-export NESSUS_PASSWORD="zoro"
+export NESSUS_USERNAME="XXXX"
+export NESSUS_PASSWORD="XXXX"
 
 # Test the server
 python nessus_mcp_server.py
@@ -89,8 +89,8 @@ claude mcp add nessus -- python /path/to/nessus_mcp_server.py
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `NESSUS_URL` | `https://localhost:8834` | Nessus server URL |
-| `NESSUS_USERNAME` | `zoro` | Authentication username |
-| `NESSUS_PASSWORD` | `zoro` | Authentication password |
+| `NESSUS_USERNAME` | `XXXX` | Authentication username |
+| `NESSUS_PASSWORD` | `XXXX` | Authentication password |
 
 ---
 
